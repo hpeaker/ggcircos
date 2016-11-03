@@ -9,7 +9,7 @@ This package is attempting to replicate some of the function of ggbio (namely th
 The ggbio package uses the GRanges and IRanges packages in order to formalise the idea of each chromosome being a sequence of defined length and together forming the whole genome.
 They do this by defining using S4 classes.
 
-This package currently just uses S3 to get things going quicker but it may make sense to formalise thing futher at some point.
+This package currently just uses S3 to get things going quicker but it may make sense to formalise things further at some point.
 
 # Setting up your sequence
 We need to define two objects which will be used to define the sequences and their layout.
