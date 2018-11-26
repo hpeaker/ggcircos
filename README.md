@@ -48,3 +48,8 @@ ggvis() %>%
     hide_axis("x") %>%
     hide_axis("y")
 ```
+
+## Note on ggvis
+This package extends [ggvis](https://github.com/rstudio/ggvis) functionality which is currently dormant.
+
+
