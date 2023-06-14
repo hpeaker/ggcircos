@@ -54,6 +54,10 @@ ggvis() %>%
     hide_axis("y")
 ```
 
+# Further Examples
+
+Additional examples are shown in `inst/example_apps` for either static plots or reactive outputs for shiny applications.
+
 ## Note on ggvis
 This package extends [ggvis](https://github.com/rstudio/ggvis) functionality which is currently dormant.
 
