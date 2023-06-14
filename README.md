@@ -1,6 +1,6 @@
 # ggcircos
 
-Note that the package and examples in this repository are very much a work in progress.
+Note that the package and examples in this repository are a work in progress.
 
 To install:
 
