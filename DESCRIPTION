@@ -1,0 +1,14 @@
+Package: ggcircos
+Type: Package
+Title: What the package does (short line)
+Version: 0.1
+Date: 2015-06-16
+Author: Harry Peaker
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Depends: R (>= 3.1.0),
+  ggvis,
+  dplyr
+Imports: shiny
+RoxygenNote: 7.2.3

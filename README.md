@@ -1,7 +1,12 @@
 # ggcircos
 
 Note that the package and examples in this repository are very much a work in progress.
-Build the package in the pkg folder before trying to run any of the examples.
+
+To install:
+
+```{r}
+devtools::install_github("https://github.com/hpeaker/ggcircos")
+```
 
 # Intro
 This package is attempting to replicate some of the function of ggbio (namely the circos plots) but using ggvis instead of ggplot2.
@@ -51,5 +56,4 @@ ggvis() %>%
 
 ## Note on ggvis
 This package extends [ggvis](https://github.com/rstudio/ggvis) functionality which is currently dormant.
-
 
